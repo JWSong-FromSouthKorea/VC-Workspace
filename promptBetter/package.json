@@ -1,0 +1,12 @@
+{
+  "name": "promptBetter",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "./api/main.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fastify": "^4.25.1",
+    "openai": "^4.24.0"
+  }
+}
